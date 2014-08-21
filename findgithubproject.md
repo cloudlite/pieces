@@ -16,3 +16,8 @@ This is a document to list github projects which I feel interested about and mig
 * [PyZh - https://github.com/hit9/PyZh](https://github.com/hit9/PyZh)
 
 > 一起写Python文章，一起看Python文章 - 利用readthedocs的Python技术文章的收集和翻译。http://pyzh.readthedocs.org
+
+#### Chanllenge
+* [Elevator Allocation - https://github.com/lettergram/ElevatorAllocation](https://github.com/lettergram/ElevatorAllocation)
+
+> 我认识到这并不是一个最佳方案，然而它确实解决了问题。我挑战你们来进行评论，从我的github中fork，改进我的代码或者是在自己的文章中写下自己的方案。我认为这是一个很有趣的问题，而且同你们电脑内部的资源分配类似，我还写了篇基本的调度处理导论的文章，如果你们感兴趣，可以来读一读。我同样十分乐意看到一个不同的（希望更好的）方案，所以如果你们想到了更好的方案，一定不要忘记写下来。
