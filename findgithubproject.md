@@ -1,11 +1,21 @@
 ## About
-This is a document to list github projects which I feel interested about and might need help.
+This is a list of interesting github projects that are looking for help. 
 
 ## Categories
 
 #### Tools Development
 * [Sublime Reform - https://github.com/Suor/sublime-reform](https://github.com/Suor/sublime-reform)
 
+#### Security 
+* [OSSEC(IDS) - https://github.com/ossec/ossec-hids](https://github.com/ossec/ossec-hids)
+
+> * Language: C
+> * OSSEC is an Open Source Host-based Intrusion Detection System that performs log analysis, file integrity checking, policy monitoring, rootkit detection, real-time alerting and active response.
+
+* [Cuckoo(Sandbox) - https://github.com/cuckoobox/cuckoo](https://github.com/cuckoobox/cuckoo)
+
+> * Language: Python
+> * Being able to understand the way malware operate is the key to properly fight them. Cuckoo Sandbox helps you achieving this goal in an easy and automated fashion.
 
 #### Translation Work
 * [Redis.cn - https://github.com/rediscn/rediscn](https://github.com/rediscn/rediscn)
