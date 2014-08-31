@@ -40,3 +40,7 @@ This is a list of interesting github projects that are looking for help.
 * [Data Graph of Network Traffic]
 
 > 分析所有的数据流量的协议类型，根据包的数量绘制数据图。
+
+* [Time Usage - An app similar to RescueTime]
+ 
+> 记录每天的时间都是花费在哪里，统计每项时间开销。
