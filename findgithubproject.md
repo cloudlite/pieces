@@ -32,6 +32,11 @@ This is a list of interesting github projects that are looking for help.
 
 > 我认识到这并不是一个最佳方案，然而它确实解决了问题。我挑战你们来进行评论，从我的github中fork，改进我的代码或者是在自己的文章中写下自己的方案。我认为这是一个很有趣的问题，而且同你们电脑内部的资源分配类似，我还写了篇基本的调度处理导论的文章，如果你们感兴趣，可以来读一读。我同样十分乐意看到一个不同的（希望更好的）方案，所以如果你们想到了更好的方案，一定不要忘记写下来。
 
-* [TODO - My Own Keystore Bruteforcing Tool]
+#### My Own Idea
+* [Keystore Bruteforcing Tool]
 
 > 自己实现一个keystore bruteforce破解的工具，用来破解jks等文件口令。
+
+* [Data Graph of Network Traffic]
+
+> 分析所有的数据流量的协议类型，根据包的数量绘制数据图。
