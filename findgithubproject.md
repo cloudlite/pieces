@@ -42,5 +42,12 @@ This is a list of interesting github projects that are looking for help.
 > 分析所有的数据流量的协议类型，根据包的数量绘制数据图。
 
 * [Time Usage - An app similar to RescueTime]
- 
+
 > 记录每天的时间都是花费在哪里，统计每项时间开销。
+
+* [E4Cloud - Encypt data before cloud synchronization]
+
+> 开启云服务的话，照片、联系人等数据会直接同步到云端。制作一个app可以在同步之前加密数据
+>* 一种方式是以加密方式本地存储，自然同步的数据也是加密数据，
+>* 另一种方式是只在上传的时候加密和发送，下载的时候解密并存储。
+ 
