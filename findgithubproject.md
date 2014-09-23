@@ -50,5 +50,5 @@ This is a list of interesting github projects that are looking for help.
 > 开启云服务的话，照片、联系人等数据会直接同步到云端。制作一个app可以在同步之前加密数据
 >* 一种方式是以加密方式本地存储，自然同步的数据也是加密数据，
 >* 另一种方式是只在上传的时候加密和发送，下载的时候解密并存储。
-> TODO: 现有的软件，类似BoxCryptor已经在这方面做的很好，那么能够做到的改进或者是new ideas是什么？
+>* TODO: 现有的软件，类似BoxCryptor已经在这方面做的很好，那么能够做到的改进或者是new ideas是什么？
  
