@@ -10,3 +10,24 @@ backup&restore
 * pip
 
 > sudo easy_install pip
+
+* redis
+
+> brew install redis
+
+* mongodb
+
+> brew install mongodb
+
+* scrapy
+
+> pip install scrapy
+
+* pymongo
+
+> pip install pymongo
+
+* redispy
+
+> pip install redis
+
