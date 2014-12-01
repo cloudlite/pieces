@@ -31,3 +31,6 @@ backup&restore
 
 > pip install redis
 
+* prerequisite to run WireShark
+
+> install x11 and command: sudo ln -s /opt/X11 /usr/X11
