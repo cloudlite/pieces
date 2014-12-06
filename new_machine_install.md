@@ -34,3 +34,7 @@ backup&restore
 * prerequisite to run WireShark
 
 > install x11 and command: sudo ln -s /opt/X11 /usr/X11
+
+* Psycopg - PostgreSQL, Python
+
+> before installation: export PATH="/Library/PostgreSQL/9.3/bin/pg_config:$PATH"
