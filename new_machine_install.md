@@ -38,3 +38,9 @@ backup&restore
 * Psycopg - PostgreSQL, Python
 
 > before installation: export PATH="/Library/PostgreSQL/9.3/bin/pg_config:$PATH"
+
+----
+## Problem Shooting ##
+* Library not loaded: libcrypto.1.0.0.dylib issue in mac
+
+> http://mithun.co/hacks/library-not-loaded-libcrypto-1-0-0-dylib-issue-in-mac/
